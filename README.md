@@ -1,8 +1,6 @@
 # Zitieren nach den IEEE-Regeln
 
-Standards gibt es aus gutem Grund. Regeln an die sich alle halten, machen das Leben aller leichter. Viele Leute sind aber zu faul und/oder wollen sie [Standards] nicht lernen. Das ist mir unergründlich, da es nur 10 Minuten in Anspruch nimmt, sie sich anzueignen. Wer sich die Zitierregeln der IEEE in voller Länge durchlesen möchte kann dies gerne machen [[1]](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf).
-
-**Dieses Dokument kann ebenfalls in meinem Repo [[2]](https://github.com/tdegold-tgm/SwissArmyKnife/blob/master/Standards_und_Normen/IEEE_zitate.md) gefunden werden.**
+Standards gibt es aus gutem Grund. Regeln an die sich alle halten, machen das Leben aller leichter. Viele Leute sind aber zu faul und/oder wollen sie [Standards] nicht lernen. Das ist mir unergründlich, da es nur 10 Minuten in Anspruch nimmt, sie sich anzueignen. Wer sich die Zitierregeln der IEEE in voller Länge durchlesen möchte kann dies gerne machen [1].
 
 ## Nützliche Informationen
 
@@ -41,11 +39,10 @@ Ein Beispiel:
 Norm/Standard  
 [1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]
 
-Da das genaue Format abhängig von der Art der Quelle ist empfehle ich, die Normen anhand des *offiziellen Papers* [[1]](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) zu lernen.
+Da das genaue Format abhängig von der Art der Quelle ist empfehle ich, die Normen anhand des *offiziellen Papers* [1] zu lernen.
 
 ## Quellen
 
-**Norm/Standard**  
 [1] IEEE, "How to Cite References:  IEEE Documentation Style", Institute of Electrical 		and Electronics Engineers. [Online]. Available: https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf. [Accessed: Jan. 23, 2020]
 
 
